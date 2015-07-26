@@ -4,6 +4,12 @@
 }*/
 
 
+
+
+
+
+
+
 /* ------------------------ header styling ---------------------*/
 
 header {
@@ -24,7 +30,7 @@ header img {
 
 header li {
     display: inline;
-    padding-left: 26px;
+    padding-left: 20px;
 }
 
 header li:first-child {
@@ -33,13 +39,13 @@ header li:first-child {
 
 nav {
     margin-left: 537px;
-    margin-top: -35px;
+    margin-top: -68px;
 }
 
 /* unvisited link */
 nav a:link {
     font-family: 'droid sans', sans-serif;
-    font-size: 11pt;
+    font-size: 10pt;
     color: #556077;
     text-decoration: none;
 }
@@ -67,6 +73,117 @@ nav a:active {
 }
 
 /* -------------------- end of header styling ------------------*/
+
+
+
+
+
+
+/* ------------------------ contact styling ---------------------*/
+
+
+
+
+#contact_info {
+    color: #414042;
+    width: 383px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 32px;
+}
+
+
+h4 {
+    font-family: 'droid sans', sans-serif;
+    font-weight: normal;
+    font-size: 16pt;
+    color: #556077;
+    margin: 10px  0 5px 0;
+    padding-top: 30px;
+}
+
+#contact_info h4:first-child {
+    margin: 0  0 5px 0;
+}
+
+
+
+#contact_info a {
+    display: inline-block;
+}
+
+
+#contact_info p, a {
+    margin-left: 5px;
+    margin-top: 0;
+    font-family: signoria, serif;
+    font-size: 10pt;
+}
+
+
+
+
+/* unvisited link */
+#contact_info a:link {
+    font-family: signoria, serif;
+    font-size: 10pt;
+    color: #556077;
+    text-decoration: none;
+}
+
+/* visited link */
+#contact_info a:visited {
+    color: #556077;
+}
+
+/* mouse over link */
+#contact_info a:hover {
+    color: #556077;
+    text-decoration: underline;
+}
+
+/* selected link */
+#contact_info a:active {
+    color: #556077;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+#no_margin {
+    margin-left: 0;
+    color: #556077;
+}
+
+
+#social img {
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+
+#about_image img {
+    padding-left: 107px;
+    margin-top: 62px;
+
+}
+/* -------------------- end of contact styling ------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
