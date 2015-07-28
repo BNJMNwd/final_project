@@ -203,12 +203,151 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
+
+
+
+
+
+
+
+
+
+/*-----------------Location specific styling ------------------*/
+
+
+
 #map-canvas1, #map-canvas2 {
     width: 944px;
     height: 235px;
+    margin-top: 35px;
     margin-left: auto;
     margin-right: auto;
 }
+
+
+#location_specific {
+    background-color: #556077;
+    min-height: 405px;
+    margin-bottom: -30px;
+}
+
+h3 {
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#location_specific p {
+    color: #ffffff;
+    font-family: signoria, serif;
+    font-size: 12px;
+}
+
+#meet_the_team {
+    float: left;
+}
+
+#meet_the_team h3 {
+    padding-left: 100px;
+}
+
+#tm1 {
+    padding-left: 100px;
+    width: 150px;
+    float: left;
+}
+
+#tm2 {
+    padding-left: 300px;
+}
+
+#meet_the_team img {
+    width: 150px;
+    padding-top: 15px;
+}
+
+#meet_the_team p {
+    width: 150px;
+    line-height: 115%;
+
+}
+
+
+#location_address {
+    padding-left: 50px;
+    float: left;
+}
+
+
+h5 {
+    font-family: 'droid sans', sans-serif;
+    font-weight: normal;
+    color: #ffffff;
+    margin-bottom: 2px;
+}
+
+
+#location_address p {
+    padding-left: 3px;
+    margin-top: 2px;
+}
+
+
+/* unvisited link */
+#location_address a:link {
+    font-family: signoria, serif;
+    font-size: 10pt;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* visited link */
+#location_address a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+#location_address a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* selected link */
+#location_address a:active {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+
+#hours {
+    padding-left: 774px;
+}
+
+#hours h5 {
+    padding-top: 81px;
+}
+
+#hours p {
+    line-height: 150%;
+}
+
+/* -----------------end of location specific styling ----------------*/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -222,7 +361,6 @@ footer {
     height: 50px;
     background-color: #414042;
     overflow: hidden;
-    width: 100%;
 }
 
 h6 {

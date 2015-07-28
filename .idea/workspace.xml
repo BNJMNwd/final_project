@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/contact.html" afterPath="$PROJECT_DIR$/LENS/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/normalize.css" afterPath="$PROJECT_DIR$/LENS/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/orlando.html" afterPath="$PROJECT_DIR$/LENS/orlando.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/style1.css" afterPath="$PROJECT_DIR$/LENS/css/style1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/tampa.html" afterPath="$PROJECT_DIR$/LENS/tampa.html" />
     </list>
     <ignored path="final_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,19 +27,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="76" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.66766024" vertical-offset="497" max-vertical-offset="1605">
+            <state line="4" column="22" selection-start="266" selection-end="266" vertical-scroll-proportion="21.416666" vertical-offset="574" max-vertical-offset="1605">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style1.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="orlando.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LENS/orlando.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="125" column="39" selection-start="3513" selection-end="3907" vertical-scroll-proportion="-23.583334" vertical-offset="1309" max-vertical-offset="2355">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tampa.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LENS/tampa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="118" column="39" selection-start="3255" selection-end="3255" vertical-scroll-proportion="-42.333332" vertical-offset="754" max-vertical-offset="2235">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style1.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="168" column="18" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="1945" max-vertical-offset="4215">
+            <state line="252" column="0" selection-start="3125" selection-end="3125" vertical-scroll-proportion="0.20087977" vertical-offset="3643" max-vertical-offset="6285">
               <folding />
             </state>
           </provider>
@@ -60,8 +77,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/LENS/css/normalize.css" />
-        <option value="$PROJECT_DIR$/LENS/css/style1.css" />
         <option value="$PROJECT_DIR$/LENS/contact.html" />
+        <option value="$PROJECT_DIR$/LENS/orlando.html" />
+        <option value="$PROJECT_DIR$/LENS/tampa.html" />
+        <option value="$PROJECT_DIR$/LENS/css/style1.css" />
       </list>
     </option>
   </component>
@@ -160,7 +179,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="34" width="1273" height="854" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -205,16 +224,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+    <entry file="file://$PROJECT_DIR$/LENS/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="168" column="18" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="1945" max-vertical-offset="4215">
+        <state line="4" column="22" selection-start="266" selection-end="266" vertical-scroll-proportion="21.416666" vertical-offset="574" max-vertical-offset="1605">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/contact.html">
+    <entry file="file://$PROJECT_DIR$/LENS/orlando.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="76" selection-start="2255" selection-end="2255" vertical-scroll-proportion="0.66766024" vertical-offset="497" max-vertical-offset="1605">
+        <state line="125" column="39" selection-start="3513" selection-end="3907" vertical-scroll-proportion="-23.583334" vertical-offset="1309" max-vertical-offset="2355">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/tampa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="39" selection-start="3255" selection-end="3255" vertical-scroll-proportion="-42.333332" vertical-offset="754" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="252" column="0" selection-start="3125" selection-end="3125" vertical-scroll-proportion="0.20087977" vertical-offset="3643" max-vertical-offset="6285">
           <folding />
         </state>
       </provider>
