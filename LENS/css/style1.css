@@ -208,11 +208,11 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-#large_location {
+#large_location, #main_service{
     margin-top: 50px;
 }
 
-#large_location img {
+#large_location img, #main_service img{
     display: block;
     margin-right: auto;
     margin-left: auto;
@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-#large_location p{
+#large_location p, #main_service p{
     color: #414042;
     font-size: 18px;
     background-color: rgba(255, 255, 255, 0.6);
@@ -237,14 +237,16 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-#small_locations {
+
+
+#small_locations, #partial_service {
     margin-top: 20px;
     overflow: hidden;
     background-color: #556077;
     min-height: 300px;
 }
 
-#small_locations section {
+#small_locations section, #partial_service section {
     padding-top: 26px;
     width: 218px;
     float: left;
@@ -252,8 +254,73 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+#partial_service p {
+    color: #ffffff;
+    font-family: 'droid sans', sans-serif;
+    font-size: 12px;
+}
 
 
+
+
+
+/* unvisited link */
+#small_locations a:link {
+    font-family: 'droid sans', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/* visited link */
+#small_locations a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+#small_locations a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* selected link */
+#small_locations a:active {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+/* unvisited link */
+#partial_service a:link {
+    font-family: 'droid sans', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+
+    font-weight: normal;
+}
+
+/* visited link */
+#partial_service a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+#partial_service a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* selected link */
+#partial_service a:active {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
 
 
 
@@ -350,7 +417,7 @@ h5 {
 }
 
 /* unvisited link */
-#location_address a, #small_locations a:link {
+#location_address a:link {
     font-family: signoria, serif;
     font-size: 10pt;
     color: #ffffff;
@@ -358,18 +425,18 @@ h5 {
 }
 
 /* visited link */
-#location_address a, #small_locations a:visited {
+#location_address a:visited {
     color: #ffffff;
 }
 
 /* mouse over link */
-#location_address a, #small_locations a:hover {
+#location_address a:hover {
     color: #ffffff;
     text-decoration: underline;
 }
 
 /* selected link */
-#location_address a, #small_locations a:active {
+#location_address a:active {
     color: #ffffff;
     font-weight: bold;
     text-decoration: none;
