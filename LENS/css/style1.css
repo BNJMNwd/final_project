@@ -299,7 +299,6 @@ h5 {
     margin-top: 2px;
 }
 
-
 /* unvisited link */
 #location_address a:link {
     font-family: signoria, serif;
@@ -328,21 +327,21 @@ h5 {
 
 
 
-
-
-#hours {
+#location_specific aside {
     padding-left: 774px;
 }
 
-#hours h5 {
+#location_specific aside  h5 {
     padding-top: 61px;
 }
 
-#hours p {
+#location_specific aside  p {
     line-height: 150%;
 }
 
 /* -----------------end of location specific styling ----------------*/
+
+
 
 
 
@@ -371,7 +370,6 @@ h5 {
     font-size: 14px;
 }
 
-
 #full_review h5 {
     padding-top: 20px;
     color: #414042;
@@ -384,12 +382,9 @@ h5 {
     font-size: 12px;
 }
 
-
 #full_review img {
     margin-left: 32px
 }
-
-
 
 #partial_review {
     background-color: #556077;
@@ -410,7 +405,6 @@ h5 {
     padding-top: 16px;
     margin-bottom: 80px;
 }
-
 
 /* unvisited link */
 #partial_review a:link {
@@ -437,10 +431,6 @@ h5 {
     font-weight: bold;
     text-decoration: none;
 }
-
-
-
-
 
 
 /*-------------------- End of Review Styling -----------------------*/
