@@ -231,6 +231,7 @@ h1, h2, h3, h4, h5, h6 {
 #location_specific {
     min-height: 430px;
     background-color: #556077;
+    overflow: hidden;
 }
 
 h3 {
@@ -346,10 +347,95 @@ h5 {
 
 
 
+/*----------------------- Review Styling ---------------------------*/
 
 
-#test {
 
+#full_review {
+    margin-top: 45px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-family: signoria, serif;
+    color: #414042;
+    overflow: hidden;
+}
+
+#full_review section {
+    margin-top: 25px;
+    width: 300px;
+    float: left;
+}
+
+#full_review p {
+    width: 270px;
+    font-size: 14px;
+}
+
+
+#full_review h5 {
+    padding-top: 20px;
+    color: #414042;
+    font-size: 16px;
+    font-family: signoria, serif;
+    width: 279px;
+}
+
+#full_review p:last-of-type{
+    font-size: 12px;
+}
+
+
+#full_review img {
+    margin-left: 32px
+}
+
+
+
+#partial_review {
+    background-color: #556077;
+    color: #ffffff;
+    font-family: signoria, serif;
+    font-size: 12px;
+    overflow: hidden;
+}
+
+#partial_review p {
+    width: 212px;
+}
+
+#partial_review section {
+    width: 300px;
+    float: left;
+    padding-left: 31px;
+    padding-top: 16px;
+    margin-bottom: 80px;
+}
+
+
+/* unvisited link */
+#partial_review a:link {
+    font-family: signoria, serif;
+    font-size: 12px;
+    color: #ffffff;
+    margin-left: 0;
+}
+
+/* visited link */
+#partial_review a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+#partial_review a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* selected link */
+#partial_review a:active {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 
@@ -357,6 +443,7 @@ h5 {
 
 
 
+/*-------------------- End of Review Styling -----------------------*/
 
 
 
