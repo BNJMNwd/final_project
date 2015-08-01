@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/clermont.html" afterPath="$PROJECT_DIR$/LENS/clermont.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/orlando.html" afterPath="$PROJECT_DIR$/LENS/orlando.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/locations.html" afterPath="$PROJECT_DIR$/LENS/locations.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/style1.css" afterPath="$PROJECT_DIR$/LENS/css/style1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/tampa.html" afterPath="$PROJECT_DIR$/LENS/tampa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/winter_garden.html" afterPath="$PROJECT_DIR$/LENS/winter_garden.html" />
     </list>
     <ignored path="final_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,25 +29,25 @@
       <file leaf-file-name="style1.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="337" column="25" selection-start="4288" selection-end="4288" vertical-scroll-proportion="0.0" vertical-offset="4719" max-vertical-offset="7590">
+            <state line="260" column="47" selection-start="3318" selection-end="3318" vertical-scroll-proportion="0.0" vertical-offset="3107" max-vertical-offset="8325">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="orlando.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LENS/orlando.html">
+      <file leaf-file-name="locations.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LENS/locations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="18" selection-start="3532" selection-end="3532" vertical-scroll-proportion="0.33819628" vertical-offset="1560" max-vertical-offset="2565">
+            <state line="78" column="32" selection-start="2229" selection-end="2229" vertical-scroll-proportion="0.34065935" vertical-offset="922" max-vertical-offset="1650">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reviews.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LENS/reviews.html">
+      <file leaf-file-name="services.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LENS/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="12" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-17.666666" vertical-offset="356" max-vertical-offset="1770">
+            <state line="37" column="17" selection-start="1323" selection-end="1323" vertical-scroll-proportion="-0.16666667" vertical-offset="551" max-vertical-offset="1380">
               <folding />
             </state>
           </provider>
@@ -72,11 +69,12 @@
         <option value="$PROJECT_DIR$/LENS/css/normalize.css" />
         <option value="$PROJECT_DIR$/LENS/contact.html" />
         <option value="$PROJECT_DIR$/LENS/reviews.html" />
-        <option value="$PROJECT_DIR$/LENS/css/style1.css" />
         <option value="$PROJECT_DIR$/LENS/orlando.html" />
         <option value="$PROJECT_DIR$/LENS/tampa.html" />
         <option value="$PROJECT_DIR$/LENS/winter_garden.html" />
         <option value="$PROJECT_DIR$/LENS/clermont.html" />
+        <option value="$PROJECT_DIR$/LENS/locations.html" />
+        <option value="$PROJECT_DIR$/LENS/css/style1.css" />
       </list>
     </option>
   </component>
@@ -251,20 +249,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="337" column="25" selection-start="4288" selection-end="4288" vertical-scroll-proportion="0.0" vertical-offset="4719" max-vertical-offset="7590">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/reviews.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="12" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-17.666666" vertical-offset="356" max-vertical-offset="1770">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LENS/clermont.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="119" column="14" selection-start="3440" selection-end="3440" vertical-scroll-proportion="0.47480106" vertical-offset="1427" max-vertical-offset="2520">
@@ -279,16 +263,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/reviews.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="12" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.56233424" vertical-offset="356" max-vertical-offset="1770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LENS/tampa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="14" selection-start="3429" selection-end="3429" vertical-scroll-proportion="0.65384614" vertical-offset="1307" max-vertical-offset="2520">
+        <state line="146" column="0" selection-start="3956" selection-end="4268" vertical-scroll-proportion="0.56233424" vertical-offset="1766" max-vertical-offset="2520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="17" selection-start="1323" selection-end="1323" vertical-scroll-proportion="-0.16666667" vertical-offset="551" max-vertical-offset="1380">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LENS/orlando.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="18" selection-start="3532" selection-end="3532" vertical-scroll-proportion="0.33819628" vertical-offset="1560" max-vertical-offset="2565">
+        <state line="121" column="18" selection-start="3532" selection-end="3532" vertical-scroll-proportion="0.5570292" vertical-offset="1395" max-vertical-offset="2565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="260" column="47" selection-start="3318" selection-end="3318" vertical-scroll-proportion="0.0" vertical-offset="3107" max-vertical-offset="8325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/locations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="32" selection-start="2229" selection-end="2229" vertical-scroll-proportion="0.34065935" vertical-offset="922" max-vertical-offset="1650">
           <folding />
         </state>
       </provider>

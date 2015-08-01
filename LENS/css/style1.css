@@ -204,11 +204,61 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* ----------------- Location Styling and Services  --------------------------*/
+
+
+
+#large_location {
+    margin-top: 50px;
+}
+
+#large_location img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+    position: relative;
+
+}
+
+#large_location p{
+    color: #414042;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 35px;
+    width: 248px;
+    text-align: center;
+    padding-top: 5px;
+
+    position: absolute;
+    top: 425px;
+    left: 238px;
+}
+
+
+
+#small_locations {
+    margin-top: 20px;
+    overflow: hidden;
+    background-color: #556077;
+    min-height: 300px;
+}
+
+#small_locations section {
+    padding-top: 26px;
+    width: 218px;
+    float: left;
+    padding-left: 30px;
+}
 
 
 
 
 
+
+
+
+/* -------------- End of Location and Services Styling -----------------------*/
 
 
 
@@ -300,7 +350,7 @@ h5 {
 }
 
 /* unvisited link */
-#location_address a:link {
+#location_address a, #small_locations a:link {
     font-family: signoria, serif;
     font-size: 10pt;
     color: #ffffff;
@@ -308,18 +358,18 @@ h5 {
 }
 
 /* visited link */
-#location_address a:visited {
+#location_address a, #small_locations a:visited {
     color: #ffffff;
 }
 
 /* mouse over link */
-#location_address a:hover {
+#location_address a, #small_locations a:hover {
     color: #ffffff;
     text-decoration: underline;
 }
 
 /* selected link */
-#location_address a:active {
+#location_address a, #small_locations a:active {
     color: #ffffff;
     font-weight: bold;
     text-decoration: none;
@@ -445,7 +495,6 @@ footer {
     background-color: #414042;
     position: absolute;
     bottom:0;
-
     overflow: hidden;
 
 }
