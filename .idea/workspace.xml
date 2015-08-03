@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/photos/home/home_1.jpg" afterPath="$PROJECT_DIR$/LENS/photos/home/home_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/index.html" afterPath="$PROJECT_DIR$/LENS/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LENS/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/style1.css" afterPath="$PROJECT_DIR$/LENS/css/style1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="final_project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +30,7 @@
       <file leaf-file-name="style1.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="0" selection-start="2242" selection-end="2242" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="10920">
+            <state line="673" column="16" selection-start="9467" selection-end="9467" vertical-scroll-proportion="0.0" vertical-offset="9859" max-vertical-offset="10950">
               <folding />
             </state>
           </provider>
@@ -39,17 +39,37 @@
       <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1365" selection-end="1365" vertical-scroll-proportion="-21.875" vertical-offset="135" max-vertical-offset="2010">
+            <state line="44" column="0" selection-start="1365" selection-end="1365" vertical-scroll-proportion="-23.125" vertical-offset="105" max-vertical-offset="2010">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="36" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.6962865" vertical-offset="180" max-vertical-offset="1200">
+            <state line="60" column="0" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-7.32" vertical-offset="534" max-vertical-offset="1545">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="superslides.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LENS/css/superslides.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="19" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.superslides.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LENS/js/jquery.superslides.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="22" selection-start="299" selection-end="299" vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="9930">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +106,11 @@
         <option value="$PROJECT_DIR$/LENS/locations.html" />
         <option value="$PROJECT_DIR$/LENS/gallery.html" />
         <option value="$PROJECT_DIR$/LENS/services.html" />
+        <option value="$PROJECT_DIR$/LENS/index2.html" />
         <option value="$PROJECT_DIR$/LENS/css/style1.css" />
         <option value="$PROJECT_DIR$/LENS/index.html" />
+        <option value="$PROJECT_DIR$/LENS/css/superslides.css" />
+        <option value="$PROJECT_DIR$/LENS/js/jquery.superslides.js" />
       </list>
     </option>
   </component>
@@ -158,6 +181,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="final_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="final_project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LENS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -171,6 +212,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
     <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LENS" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -335,6 +381,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="673" column="16" selection-start="9467" selection-end="9467" vertical-scroll-proportion="0.0" vertical-offset="9859" max-vertical-offset="10950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1365" selection-end="1365" vertical-scroll-proportion="-23.125" vertical-offset="105" max-vertical-offset="2010">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1766" selection-end="1766" vertical-scroll-proportion="-7.32" vertical-offset="534" max-vertical-offset="1545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/js/jquery.easing.1.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="59" selection-start="7260" selection-end="7261" vertical-scroll-proportion="2.22" vertical-offset="1215" max-vertical-offset="3150">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LENS/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="63" selection-start="1737" selection-end="1737" vertical-scroll-proportion="-36.875" vertical-offset="0" max-vertical-offset="1590">
@@ -342,24 +418,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+    <entry file="file://$PROJECT_DIR$/LENS/css/superslides.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="0" selection-start="2242" selection-end="2242" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="10920">
+        <state line="31" column="19" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/gallery.html">
+    <entry file="file://$PROJECT_DIR$/LENS/js/jquery.superslides.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1365" selection-end="1365" vertical-scroll-proportion="-21.875" vertical-offset="135" max-vertical-offset="2010">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="36" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.6962865" vertical-offset="180" max-vertical-offset="1200">
-          <folding />
+        <state line="10" column="22" selection-start="299" selection-end="299" vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="9930">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

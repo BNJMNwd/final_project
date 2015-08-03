@@ -168,11 +168,13 @@ nav a:active {
 
 
 #home_header {
+    z-index: 10;
     position: fixed;
     background-color: rgba(255, 255, 255, .9);
     height: 100px;
     top: 0;
 }
+
 
 
 /* ------------------ End of Home Styling -------------------*/
@@ -669,7 +671,7 @@ footer {
     position: absolute;
     bottom:0;
     overflow: hidden;
-
+    z-index: 10;
 }
 
 h6 {
