@@ -76,7 +76,7 @@ nav a:active {
 
 
 
-/* ---------------------Home Styling -------------------------- */
+/* ---------------------Gallery Styling -------------------------- */
 
 
 #gallery_sider {
@@ -153,13 +153,29 @@ nav a:active {
 
 
 
-/* ------------------End of Home Styling ---------------------- */
+/* ------------------End of Gallery Styling ---------------------- */
 
 
 
 
-/* --------------------- Gallery Styling -----------------------*/
-/* ------------------ End of Gallery Styling -------------------*/
+/* --------------------- Home Styling -----------------------*/
+
+
+#home_slider img{
+    max-width: 100%;
+}
+
+
+
+#home_header {
+    position: fixed;
+    background-color: rgba(255, 255, 255, .9);
+    height: 100px;
+    top: 0;
+}
+
+
+/* ------------------ End of Home Styling -------------------*/
 
 
 
@@ -425,10 +441,10 @@ h1, h2, h3, h4, h5, h6 {
 #map-canvas1, #map-canvas2 {
     width: 944px;
     height: 235px;
-    margin-top: 35px;
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 
 
@@ -454,6 +470,7 @@ h3 {
 #meet_the_team {
     float: left;
     margin-left: -30px;
+    min-height: 450px;
 }
 
 #meet_the_team h3 {
