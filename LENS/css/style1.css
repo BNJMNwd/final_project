@@ -290,12 +290,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* ----------------- Location Styling and Services  --------------------------*/
+/* ----------------- Location and services Styling  --------------------------*/
 
 
 
 #large_location, #main_service{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 #large_location img, #main_service img{
@@ -326,17 +327,17 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #small_locations, #partial_service {
-    margin-top: 20px;
     overflow: hidden;
     background-color: #556077;
     min-height: 300px;
 }
 
 #small_locations section, #partial_service section {
-    padding-top: 26px;
+    padding-top: 50px;
     width: 218px;
     float: left;
     padding-left: 30px;
+    min-height: 300px;
 }
 
 
@@ -555,6 +556,7 @@ h5 {
 
 #full_review {
     margin-top: 45px;
+    margin-bottom: 35px;
     padding-left: 30px;
     padding-bottom: 30px;
     font-family: signoria, serif;
@@ -590,6 +592,7 @@ h5 {
 }
 
 #partial_review {
+    padding-top: 30px;
     background-color: #556077;
     color: #ffffff;
     font-family: signoria, serif;
