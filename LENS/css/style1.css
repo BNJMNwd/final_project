@@ -165,8 +165,6 @@ nav a:active {
     max-width: 100%;
 }
 
-
-
 #home_header {
     z-index: 10;
     position: fixed;
@@ -174,6 +172,12 @@ nav a:active {
     height: 100px;
     top: 0;
 }
+
+#home_footer {
+    z-index: 10;
+    background-color: rgba(65,64,66,.9);
+}
+
 
 
 
@@ -268,11 +272,18 @@ h4 {
 }
 
 
-#about_image img {
-    padding-left: 107px;
-    margin-top: 62px;
 
+#contact_img {
+    margin-left: 520px;
+    margin-top: 62px;
+    max-width: 462px;
 }
+
+#contact_img li{
+    list-style: none;
+}
+
+
 /* -------------------- end of contact styling ------------------*/
 
 
@@ -347,7 +358,7 @@ h1, h2, h3, h4, h5, h6 {
 #small_locations, #partial_service {
     overflow: hidden;
     background-color: #556077;
-    min-height: 300px;
+    /*min-height: 300px;*/
 }
 
 #small_locations section, #partial_service section {
@@ -364,6 +375,116 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'droid sans', sans-serif;
     font-size: 12px;
 }
+
+
+
+
+
+
+
+
+
+
+#services_slider {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 964px;
+}
+
+
+
+.callbacks_container {
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.callbacks {
+    position: relative;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.callbacks .caption {
+    display: block;
+    position: absolute;
+    z-index: 2;
+    font-size: 18px;
+    text-align: center;
+    color: #556077;
+    background: rgba(255,255,255, .6  );
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0;
+    max-width: 248px;
+    max-height: 35px;
+}
+
+
+.callbacks_nav {
+    position: absolute;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    top: 52%;
+    left: 0;
+    opacity: 0.7;
+    z-index: 3;
+    text-indent: -9999px;
+    overflow: hidden;
+    text-decoration: none;
+    height: 61px;
+    width: 38px;
+    background: transparent url("../images/arrows.gif") no-repeat left top;
+    margin-top: -45px;
+}
+
+
+/* unvisited link */
+#top_slider a:link {
+    font-family: 'droid sans', sans-serif;
+    font-size: 18px;
+    color: #556077;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/* visited link */
+#top_slider a:visited {
+    color: #556077;
+}
+
+/* mouse over link */
+#top_slider a:hover {
+    text-decoration: underline;
+}
+
+/* selected link */
+#top_slider a:active {
+    color: #556077;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+.callbacks_nav:active {
+    opacity: 1.0;
+}
+
+.callbacks_nav.next {
+    left: auto;
+    background-position: right top;
+    right: 0;
+}
+
+
+
+
+
 
 
 
@@ -426,6 +547,8 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     text-decoration: none;
 }
+
+
 
 
 
@@ -717,6 +840,7 @@ footer a:active {
     font-weight: bold;
     text-decoration: none;
 }
+
 
 /* -------------------- end of footer styling ------------------*/
 
