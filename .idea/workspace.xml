@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/photos/locations/building_1_large.jpg" afterPath="$PROJECT_DIR$/LENS/photos/locations/building_1_large.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/locations.html" afterPath="$PROJECT_DIR$/LENS/locations.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/services.html" afterPath="$PROJECT_DIR$/LENS/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/style1.css" afterPath="$PROJECT_DIR$/LENS/css/style1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/photos/home/home_4.jpg" afterPath="$PROJECT_DIR$/LENS/photos/home/home_4.jpg" />
     </list>
     <ignored path="final_project.iws" />
     <ignored path=".idea/workspace.xml" />
