@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LENS/photos/contact/Dragon 1.JPG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/contact.html" afterPath="$PROJECT_DIR$/LENS/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/index.html" afterPath="$PROJECT_DIR$/LENS/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/photos/locations/building_1_large.jpg" afterPath="$PROJECT_DIR$/LENS/photos/locations/building_1_large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/locations.html" afterPath="$PROJECT_DIR$/LENS/locations.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/services.html" afterPath="$PROJECT_DIR$/LENS/services.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/style1.css" afterPath="$PROJECT_DIR$/LENS/css/style1.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -30,10 +29,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style1.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="1" selection-start="974" selection-end="974" vertical-scroll-proportion="0.18621701" vertical-offset="758" max-vertical-offset="12735">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="47" selection-start="2358" selection-end="2359" vertical-scroll-proportion="0.33333334" vertical-offset="910" max-vertical-offset="2175">
+            <state line="75" column="46" selection-start="2358" selection-end="2358" vertical-scroll-proportion="-46.875" vertical-offset="0" max-vertical-offset="2175">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="locations.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LENS/locations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="33" selection-start="2032" selection-end="2048" vertical-scroll-proportion="-13.75" vertical-offset="735" max-vertical-offset="2475">
               <folding />
             </state>
           </provider>
@@ -42,16 +59,7 @@
       <file leaf-file-name="services.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="10" selection-start="3945" selection-end="3945" vertical-scroll-proportion="-22.25" vertical-offset="1611" max-vertical-offset="2595">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style1.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="446" column="20" selection-start="6002" selection-end="6002" vertical-scroll-proportion="0.0" vertical-offset="6477" max-vertical-offset="12810">
+            <state line="34" column="24" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-11.875" vertical-offset="225" max-vertical-offset="2595">
               <folding />
             </state>
           </provider>
@@ -60,7 +68,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LENS/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="0" selection-start="2367" selection-end="2367" vertical-scroll-proportion="0.0" vertical-offset="499" max-vertical-offset="1575">
+            <state line="95" column="0" selection-start="2367" selection-end="2367" vertical-scroll-proportion="-44.375" vertical-offset="360" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
@@ -85,7 +93,6 @@
         <option value="$PROJECT_DIR$/LENS/tampa.html" />
         <option value="$PROJECT_DIR$/LENS/winter_garden.html" />
         <option value="$PROJECT_DIR$/LENS/clermont.html" />
-        <option value="$PROJECT_DIR$/LENS/locations.html" />
         <option value="$PROJECT_DIR$/LENS/gallery.html" />
         <option value="$PROJECT_DIR$/LENS/index2.html" />
         <option value="$PROJECT_DIR$/LENS/css/superslides.css" />
@@ -98,6 +105,7 @@
         <option value="$PROJECT_DIR$/LENS/contact.html" />
         <option value="$PROJECT_DIR$/LENS/index.html" />
         <option value="$PROJECT_DIR$/LENS/services.html" />
+        <option value="$PROJECT_DIR$/LENS/locations.html" />
         <option value="$PROJECT_DIR$/LENS/css/style1.css" />
       </list>
     </option>
@@ -281,6 +289,18 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USERS">
@@ -374,11 +394,6 @@
         <state line="146" column="0" selection-start="3956" selection-end="4268" vertical-scroll-proportion="-18.666666" vertical-offset="1742" max-vertical-offset="2520" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/locations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="18" selection-start="2141" selection-end="2141" vertical-scroll-proportion="-24.083334" vertical-offset="532" max-vertical-offset="1650" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LENS/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="0" selection-start="1365" selection-end="1365" vertical-scroll-proportion="-23.125" vertical-offset="105" max-vertical-offset="2010">
@@ -406,7 +421,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LENS/css/superslides.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.42372882" vertical-offset="0" max-vertical-offset="870" />
+        <state line="20" column="0" selection-start="311" selection-end="311" vertical-scroll-proportion="0.42372882" vertical-offset="0" max-vertical-offset="870">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LENS/js/responsiveslides.js">
@@ -418,30 +435,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/index.html">
+    <entry file="file://$PROJECT_DIR$/LENS/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="0" selection-start="2367" selection-end="2367" vertical-scroll-proportion="0.0" vertical-offset="499" max-vertical-offset="1575">
+        <state line="75" column="46" selection-start="2358" selection-end="2358" vertical-scroll-proportion="-46.875" vertical-offset="0" max-vertical-offset="2175">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
+    <entry file="file://$PROJECT_DIR$/LENS/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="446" column="20" selection-start="6002" selection-end="6002" vertical-scroll-proportion="0.0" vertical-offset="6477" max-vertical-offset="12810">
+        <state line="95" column="0" selection-start="2367" selection-end="2367" vertical-scroll-proportion="-44.375" vertical-offset="360" max-vertical-offset="1575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LENS/locations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="33" selection-start="2032" selection-end="2048" vertical-scroll-proportion="-13.75" vertical-offset="735" max-vertical-offset="2475">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LENS/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="10" selection-start="3945" selection-end="3945" vertical-scroll-proportion="-22.25" vertical-offset="1611" max-vertical-offset="2595">
+        <state line="34" column="24" selection-start="1275" selection-end="1275" vertical-scroll-proportion="-11.875" vertical-offset="225" max-vertical-offset="2595">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LENS/contact.html">
+    <entry file="file://$PROJECT_DIR$/LENS/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="47" selection-start="2358" selection-end="2359" vertical-scroll-proportion="0.33333334" vertical-offset="910" max-vertical-offset="2175">
+        <state line="59" column="1" selection-start="974" selection-end="974" vertical-scroll-proportion="0.18621701" vertical-offset="758" max-vertical-offset="12735">
           <folding />
         </state>
       </provider>

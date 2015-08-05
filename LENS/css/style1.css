@@ -5,6 +5,235 @@
 
 
 
+#large_location, #main_service{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#large_location img, #main_service img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+    position: relative;
+
+}
+
+#large_location p, #main_service p{
+    color: #414042;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0.6);
+    height: 35px;
+    width: 248px;
+    text-align: center;
+    padding-top: 5px;
+
+    position: absolute;
+    top: 425px;
+    left: 236px;
+}
+
+
+
+
+
+#small_locations, #partial_service {
+    overflow: hidden;
+    background-color: #556077;
+    /*min-height: 300px;*/
+}
+
+#small_locations section, #partial_service section {
+    padding-top: 50px;
+    width: 218px;
+    float: left;
+    padding-left: 30px;
+    min-height: 300px;
+}
+
+
+
+#partial_service, #small_locations p {
+    color: #ffffff;
+    font-family: 'droid sans', sans-serif;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+#services_slider, #locations_slider{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 964px;
+}
+
+
+
+.callbacks_container {
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.callbacks {
+    position: relative;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.callbacks .caption {
+    display: block;
+    position: absolute;
+    z-index: 2;
+    font-size: 18px;
+    text-align: center;
+    color: #414042;
+    background: rgba(255,255,255, .7  );
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0;
+    max-width: 248px;
+    max-height: 35px;
+}
+
+
+.callbacks_nav {
+    position: absolute;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    top: 52%;
+    left: 0;
+    opacity: 0.7;
+    z-index: 3;
+    text-indent: -9999px;
+    overflow: hidden;
+    text-decoration: none;
+    height: 61px;
+    width: 38px;
+    background: transparent url("../images/arrows.gif") no-repeat left top;
+    margin-top: -45px;
+}
+
+
+
+
+
+/* unvisited link */
+#top_slider a:link {
+    font-family: 'droid sans', sans-serif;
+    font-size: 18px;
+    color: #414042;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/* visited link */
+#top_slider a:visited {
+    color: #414042;
+}
+
+/* mouse over link */
+#top_slider a:hover {
+    text-decoration: underline;
+}
+
+/* selected link */
+#top_slider a:active {
+    color: #414042;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+.callbacks_nav:active {
+    opacity: 1.0;
+}
+
+.callbacks_nav.next {
+    left: auto;
+    background-position: right top;
+    right: 0;
+}
+
+
+
+
+
+
+/* unvisited link */
+#small_locations a:link {
+    font-family: 'droid sans', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+/* visited link */
+#small_locations a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+#small_locations a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* selected link */
+#small_locations a:active {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+/* unvisited link */
+#partial_service a:link {
+    font-family: 'droid sans', sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+
+    font-weight: normal;
+}
+
+/* visited link */
+#partial_service a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+#partial_service a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* selected link */
+#partial_service a:active {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+
+
+
+/* -------------- End of Location and Services Styling -----------------------*/
 
 
 
@@ -320,240 +549,6 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* ----------------- Location and services Styling  --------------------------*/
-
-
-
-#large_location, #main_service{
-    margin-top: 50px;
-    margin-bottom: 50px;
-}
-
-#large_location img, #main_service img{
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-
-    position: relative;
-
-}
-
-#large_location p, #main_service p{
-    color: #414042;
-    font-size: 18px;
-    background-color: rgba(255, 255, 255, 0.6);
-    height: 35px;
-    width: 248px;
-    text-align: center;
-    padding-top: 5px;
-
-    position: absolute;
-    top: 425px;
-    left: 236px;
-}
-
-
-
-
-
-#small_locations, #partial_service {
-    overflow: hidden;
-    background-color: #556077;
-    /*min-height: 300px;*/
-}
-
-#small_locations section, #partial_service section {
-    padding-top: 50px;
-    width: 218px;
-    float: left;
-    padding-left: 30px;
-    min-height: 300px;
-}
-
-
-#partial_service p {
-    color: #ffffff;
-    font-family: 'droid sans', sans-serif;
-    font-size: 12px;
-}
-
-
-
-
-
-
-
-
-
-
-#services_slider {
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 964px;
-}
-
-
-
-.callbacks_container {
-    margin-bottom: 50px;
-    position: relative;
-}
-
-.callbacks {
-    position: relative;
-    list-style: none;
-    overflow: hidden;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-}
-
-.callbacks .caption {
-    display: block;
-    position: absolute;
-    z-index: 2;
-    font-size: 18px;
-    text-align: center;
-    color: #556077;
-    background: rgba(255,255,255, .6  );
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    margin: 0;
-    max-width: 248px;
-    max-height: 35px;
-}
-
-
-.callbacks_nav {
-    position: absolute;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    top: 52%;
-    left: 0;
-    opacity: 0.7;
-    z-index: 3;
-    text-indent: -9999px;
-    overflow: hidden;
-    text-decoration: none;
-    height: 61px;
-    width: 38px;
-    background: transparent url("../images/arrows.gif") no-repeat left top;
-    margin-top: -45px;
-}
-
-
-/* unvisited link */
-#top_slider a:link {
-    font-family: 'droid sans', sans-serif;
-    font-size: 18px;
-    color: #556077;
-    text-decoration: none;
-    font-weight: normal;
-}
-
-/* visited link */
-#top_slider a:visited {
-    color: #556077;
-}
-
-/* mouse over link */
-#top_slider a:hover {
-    text-decoration: underline;
-}
-
-/* selected link */
-#top_slider a:active {
-    color: #556077;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-
-
-.callbacks_nav:active {
-    opacity: 1.0;
-}
-
-.callbacks_nav.next {
-    left: auto;
-    background-position: right top;
-    right: 0;
-}
-
-
-
-
-
-
-
-
-
-
-/* unvisited link */
-#small_locations a:link {
-    font-family: 'droid sans', sans-serif;
-    font-size: 12px;
-    color: #ffffff;
-    text-decoration: none;
-    font-weight: normal;
-}
-
-/* visited link */
-#small_locations a:visited {
-    color: #ffffff;
-}
-
-/* mouse over link */
-#small_locations a:hover {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
-/* selected link */
-#small_locations a:active {
-    color: #ffffff;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-
-
-
-/* unvisited link */
-#partial_service a:link {
-    font-family: 'droid sans', sans-serif;
-    font-size: 12px;
-    color: #ffffff;
-    text-decoration: none;
-
-    font-weight: normal;
-}
-
-/* visited link */
-#partial_service a:visited {
-    color: #ffffff;
-}
-
-/* mouse over link */
-#partial_service a:hover {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
-/* selected link */
-#partial_service a:active {
-    color: #ffffff;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-
-
-
-
-
-/* -------------- End of Location and Services Styling -----------------------*/
 
 
 
