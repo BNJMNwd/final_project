@@ -20,29 +20,10 @@
     <title>LENS PHTGRPHY Winter Garden</title>
 
 
-    <!--Start Here  must be placed in header-->
-
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
-    <script>
-        function initialize() {
-            var mapCanvas = document.getElementById('map-canvas1');
-            var mapOptions = {
-                center: new google.maps.LatLng(28.3211086,  -81.5430255),
-                zoom: 16,
-                mapTypeId: google.maps.MapTypeId.ROADMAP
-            }
-            var map = new google.maps.Map(mapCanvas, mapOptions)
-        }
-        google.maps.event.addDomListener(window, 'load', initialize);
-
-    </script>
-
-    <!--End Here -->
-
 </head>
 <body>
 
-<div id="wrap">
+<div class="wrap">
 
 
     <header>
@@ -65,8 +46,10 @@
 
 
 
-    <!-- map appears here -->
-    <div id="map-canvas1"></div>
+    <div id="map-canvas1">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.7760909414533!2d-81.56376059999982!3d28.560300383275056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e783036b2fd9ef%3A0x8eab301220c871bc!2s1275+E+Story+Rd%2C+Winter+Garden%2C+FL+34787!5e0!3m2!1sen!2sus!4v1438825120785"
+                width="944" height="235" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
 
 
 
@@ -104,8 +87,8 @@
 
             <h3>Winter Garden</h3>
             <h5>Address</h5>
-            <p>6 Avenue Q <br>
-                Winter Garden, FL 34478</p>
+            <p>1275 E Story Rd<br>
+                Winter Garden, FL 34787</p>
 
             <h5>Phone</h5>
             <a href="tel:4074898190">813-456-7887</a>

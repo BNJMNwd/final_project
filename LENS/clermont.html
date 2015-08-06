@@ -20,29 +20,10 @@
     <title>LENS PHTGRPHY Clermont</title>
 
 
-    <!--Start Here  must be placed in header-->
-
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
-    <script>
-        function initialize() {
-            var mapCanvas = document.getElementById('map-canvas1');
-            var mapOptions = {
-                center: new google.maps.LatLng(28.3211086,  -81.5430255),
-                zoom: 16,
-                mapTypeId: google.maps.MapTypeId.ROADMAP
-            }
-            var map = new google.maps.Map(mapCanvas, mapOptions)
-        }
-        google.maps.event.addDomListener(window, 'load', initialize);
-
-    </script>
-
-    <!--End Here -->
-
 </head>
 <body>
 
-<div id="wrap">
+<div class="wrap">
 
 
     <header>
@@ -65,8 +46,11 @@
 
 
 
-    <!-- map appears here -->
-    <div id="map-canvas1"></div>
+
+    <div id="map-canvas1">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1756.5740890605502!2d-81.76708370000014!3d28.555097495736018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e78e8f6551100f%3A0x1a41df07cf580c42!2s707+W+Montrose+St%2C+Clermont%2C+FL+34711!5e0!3m2!1sen!2sus!4v1438824831543"
+                width="944" height="235" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
 
 
 
@@ -104,8 +88,8 @@
 
             <h3>Clermont</h3>
             <h5>Address</h5>
-            <p>1203 Sunset Blvd.<br>
-                Clermont, FL 34712</p>
+            <p>707 W Montrose St.<br>
+                Clermont, FL 34711</p>
 
             <h5>Phone</h5>
             <a href="tel:4074898190">813-456-7887</a>
