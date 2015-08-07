@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/photos/locations/headshot_7.jpg" afterPath="$PROJECT_DIR$/LENS/photos/locations/headshot_7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/clermont.html" afterPath="$PROJECT_DIR$/LENS/clermont.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/orlando.html" afterPath="$PROJECT_DIR$/LENS/orlando.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/services.html" afterPath="$PROJECT_DIR$/LENS/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/css/style1.css" afterPath="$PROJECT_DIR$/LENS/css/style1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/tampa.html" afterPath="$PROJECT_DIR$/LENS/tampa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LENS/winter_garden.html" afterPath="$PROJECT_DIR$/LENS/winter_garden.html" />
-    </list>
+    <list default="true" id="5bd0afee-e3e8-48b1-b677-ac81ea713f77" name="Default" comment="" />
     <ignored path="final_project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
