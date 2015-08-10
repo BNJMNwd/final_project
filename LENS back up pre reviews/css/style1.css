@@ -5,46 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #large_location, #main_service{
     margin-top: 50px;
     margin-bottom: 50px;
@@ -732,18 +692,7 @@ h5 {
 
 
 
-
-#full_review_2, #full_review_3, #full_review_4 {
-    display: none;
-}
-
-#small_review_1 {
-    display: none;
-}
-
-
-
-#full_review, #full_review_2, #full_review_3, #full_review_4 {
+#full_review {
     margin-top: 45px;
     margin-bottom: 35px;
     padding-left: 30px;
@@ -753,18 +702,18 @@ h5 {
     overflow: hidden;
 }
 
-#full_review section, #full_review_2 section, #full_review_3 section, #full_review_4 section {
+#full_review section {
     margin-top: 25px;
     width: 300px;
     float: left;
 }
 
-#full_review p, #full_review_2 p, #full_review_3 p, #full_review_4 p{
+#full_review p {
     width: 270px;
     font-size: 14px;
 }
 
-#full_review h5, #full_review_2 h5, #full_review_3 h5, #full_review_4 h5  {
+#full_review h5 {
     padding-top: 20px;
     color: #414042;
     font-size: 16px;
@@ -772,14 +721,13 @@ h5 {
     width: 279px;
 }
 
-#full_review p:last-of-type, #full_review_2 p:last-of-type, #full_review_3 p:last-of-type, #full_review_4 p:last-of-type{
+#full_review p:last-of-type{
     font-size: 12px;
 }
 
-#full_review img, #full_review_2 img, #full_review_3 img, #full_review_4 img{
+#full_review img {
     margin-left: 32px
 }
-
 
 #partial_review {
     padding-top: 30px;
@@ -792,8 +740,6 @@ h5 {
 
 #partial_review p {
     width: 212px;
-    cursor: pointer;
-
 }
 
 #partial_review section {
