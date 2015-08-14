@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">  <link rel="stylesheet" href="css/gallery_responsiveslides.css">
+    <title>ResponsiveSlides.js &middot; Responsive jQuery slideshow</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+    <link rel="stylesheet" href="css/gallery.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style1.css">
+
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="js/gallery_actions.js"></script>
+    <script src="js/gallery_expand.js"></script>
+
+    <script>
+        $(function () {
+
+            $("#portrait_gallery").responsiveSlides({
+                auto: false,
+                pager: false,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $(function () {
+
+            $("#wedding_gallery").responsiveSlides({
+                auto: false,
+                pager: false,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+    </script>
+
+    <script>
+        $(function () {
+
+            $("#travel_gallery").responsiveSlides({
+                auto: false,
+                pager: false,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+
+
+    </script>
+
+    <script>
+        $(function () {
+
+            $("#park_gallery").responsiveSlides({
+                auto: false,
+                pager: false,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+                before: function () {
+                    $('.events').append("<li>before event fired.</li>");
+                },
+                after: function () {
+                    $('.events').append("<li>after event fired.</li>");
+                }
+            });
+
+        });
+    </script>
+
+
+
+</head>
+<body>
+
+
+
+
+
+<div class="wrap">
+
+
+
+<header id="gallery_header">
+    <h1>LENS PHTGRPHY!</h1>
+    <div id="logo"><a href="index.html"><img src="images/lens_logo.png"></a></div>
+
+    <nav>
+        <ul>
+            <li id="current"><a href="gallery.html">Gallery</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="locations.html">Locations</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="reviews.html">User Reviews</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+
+<div id="gallery_sider">
+
+    <h2>What Have We Shot</h2>
+
+    <p>LENS PHTGRPHY specializes in Portrait, Wedding, Travel, and Theme Park Photography.
+        Our team consists of creative professionals from varied background so that no project is out
+        of our grasp. Please browse our gallery for a sampling of our most recent projects!</p>
+
+
+</div> <!-- end of gallery sider -->
+
+
+<div id="gallery">
+
+
+
+    <section id="portrait">
+        <h3 id="portrait_h3">Portrait Photography</h3>
+
+        <ul>
+            <li><img src="photos/gallery/portrait/portrait_1_small.jpg"></li>
+            <li><img src="photos/gallery/portrait/portrait_2_small.jpg"></li>
+            <li><img src="photos/gallery/portrait/portrait_3_small.jpg"></li>
+        </ul>
+    </section> <!-- end of portrait-->
+
+
+
+    <section id="wedding">
+        <h3 id="wedding_h3">Wedding Photography</h3>
+
+        <ul>
+            <li><img src="photos/gallery/wedding/wedding_1_small.jpg"></li>
+            <li><img src="photos/gallery/wedding/wedding_2_small.jpg"></li>
+            <li><img src="photos/gallery/wedding/wedding_3_small.jpg"></li>
+        </ul>
+
+    </section> <!-- end of wedding -->
+
+    <section id="travel">
+        <h3 id="travel_h3">Travel Photography</h3>
+
+        <ul>
+            <li><img src="photos/gallery/travel/travel_1_small.jpg"></li>
+            <li><img src="photos/gallery/travel/travel_2_small.jpg"></li>
+            <li><img src="photos/gallery/travel/travel_3_small.jpg"></li>
+        </ul>
+
+    </section> <!-- end of travel -->
+
+
+    <section id="park">
+        <h3 id="park_h3">Theme Park Photography</h3>
+
+        <ul>
+            <li><img src="photos/gallery/parks/park_1_small.jpg"></li>
+            <li><img src="photos/gallery/parks/park_2_small.jpg"></li>
+            <li><img src="photos/gallery/parks/park_3_small.jpg"></li>
+        </ul>
+
+    </section> <!-- end of park -->
+
+</div> <!-- end of gallery -->
+
+
+
+</div> <!-- end of wrap 1 -->
+
+
+
+<section id="expand_gallery">
+
+<div class="wrap">
+
+
+
+
+<div id="portrait_gallery_expand">
+
+    <img src="images/back.png" class="back_button">
+
+    <div class="gallery_container">
+        <ul class="rslides2" id="portrait_gallery">
+
+            <li>
+                <h4>Name</h4>
+                <h5>Portrait</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our photography team
+                    was able to capture the width as well as the depth of  the space</p>
+                <img src="photos/gallery/portrait/portrait_1_large.jpg" alt="">
+            </li>
+
+
+            <li>
+                <h4>Another Name</h4>
+                <h5>Portrait</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our photography team
+                    was able to capture the width as well as the depth of  the space</p>
+                <img src="photos/gallery/portrait/portrait_2_large.jpg" alt="">
+                <aside></aside>
+            </li>
+
+            <li>
+                <h4>Name Here</h4>
+                <h5>Portrait</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our photography team
+                    was able to capture the width as well as the depth of  the space</p>
+                <img src="photos/gallery/portrait/portrait_3_large.jpg" alt="">
+                <aside></aside>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+</div>
+
+
+
+<div id="wedding_gallery_expand">
+
+    <img src="images/back.png" class="back_button">
+
+    <div class="gallery_container">
+
+        <ul class="rslides2" id="wedding_gallery">
+
+            <li>
+                <h4>Two</h4>
+                <h5>Wedding</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our photography team
+                    was able to capture the width as well as the depth of  the space</p>
+                <img src="photos/gallery/wedding/wedding_1_large.jpg" alt="">
+            </li>
+
+            <li>
+                <h4>Another Name</h4>
+                <h5>Wedding</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our photography team
+                    was able to capture the width as well as the depth of  the space</p>
+                <img src="photos/gallery/wedding/wedding_2_large.jpg" alt="">
+            </li>
+
+            <li>
+                <h4>Name Here</h4>
+                <h5>Wedding</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our photography team
+                    was able to capture the width as well as the depth of  the space</p>
+                <img src="photos/gallery/wedding/wedding_3_large.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div id="travel_gallery_expand">
+
+    <img src="images/back.png" class="back_button">
+
+    <div class="gallery_container">
+
+        <ul class="rslides2" id="travel_gallery">
+
+            <li>
+                <h4>Oculus</h4>
+                <h5>Travel</h5>
+                <p>This photo was taken a little after midday inside the Roman Pantheon. The lighting was very
+                    important for us to capture because even though the Pantheon is over 2000 years old the
+                    natural coloring is extremely impressive. </p>
+                <img src="photos/gallery/travel/travel_1_large.jpg" alt="">
+            </li>
+
+            <li>
+                <h4>Eye</h4>
+                <h5>Travel</h5>
+                <p>Located on International Drive in Orlando Florida the Orlando eye can be seen and see miles away.
+                    This is a perfect example of the weather that you can expect to see whenever you visit the
+                    sunshine state. </p>
+                <img src="photos/gallery/travel/travel_2_large.jpg" alt="">
+            </li>
+
+            <li>
+                <h4>David</h4>
+                <h5>Travel</h5>
+                <p>Were not going to even try to hide the fact that the team took way to many photos of the David.
+                    We spent hours taking hundreds of photos capturing this beautiful work of art to finally
+                    capture the beautiful image you see here. </p>
+                <img src="photos/gallery/travel/travel_3_large.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div id="park_gallery_expand">
+
+    <img src="images/back.png" class="back_button">
+
+    <div class="gallery_container">
+
+        <ul class="rslides2" id="park_gallery">
+
+            <li>
+                <h4>A Real Cowboy</h4>
+                <h5>Theme Park</h5>
+                <p>This photo was taken during Epcot’s Flower and Garden Festival. While we were taking to take
+                    this photo we did get a chance to enjoy some very nice pulled pork! </p>
+                <img src="photos/gallery/parks/park_1_large.jpg" alt="">
+            </li>
+
+            <li>
+                <h4>Globe </h4>
+                <h5>Theme Park</h5>
+                <p>This photo was taken at sunset at Universal Studios Florida. Utilizing a fish eye lens our
+                    photography team was able to capture the width as well as the depth of the space</p>
+                <img src="photos/gallery/parks/park_2_large.jpg" alt="">
+            </li>
+
+            <li>
+                <h4>Morris Column</h4>
+                <h5>Theme Park</h5>
+                <p>While you could argue that this photo should be in the Travel category.
+                    It was actually taken in the French Pavilion at Epcot. </p>
+                <img src="photos/gallery/parks/park_3_large.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+</div>
+
+</section> <!-- end of wrap -->
+
+
+
+
+
+<footer>
+
+    <div class="wrap">
+
+        <h6>LENS PHTGRPHY | 2015</h6>
+
+        <ul>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div> <!--end of wrap 3-->
+
+</footer>
+
+
+</body>
+</html>
