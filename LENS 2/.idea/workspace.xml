@@ -23,53 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style1.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style1.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="328" column="29" selection-start="4510" selection-end="4511" vertical-scroll-proportion="0.0" vertical-offset="4685" max-vertical-offset="11640">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="0" selection-start="5469" selection-end="5469" vertical-scroll-proportion="-77.5" vertical-offset="0" max-vertical-offset="3765">
-              <folding>
-                <element signature="tag#script#3;tag#head#0;tag#html#0" expanded="false" />
-                <element signature="tag#script#4;tag#head#0;tag#html#0" expanded="false" />
-                <element signature="tag#script#5;tag#head#0;tag#html#0" expanded="false" />
-                <element signature="tag#script#6;tag#head#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#0;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#3;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="locations.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="46" selection-start="3039" selection-end="3039" vertical-scroll-proportion="0.44428772" vertical-offset="1035" max-vertical-offset="2490">
+            <state line="141" column="8" selection-start="4668" selection-end="4668" vertical-scroll-proportion="0.8836207" vertical-offset="1500" max-vertical-offset="2490">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery_actions.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/gallery_actions.js">
+      <file leaf-file-name="location_services.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/location_services.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="85" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1395">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/gallery.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="23" selection-start="2" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1560">
+            <state line="49" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1485">
               <folding />
             </state>
           </provider>
@@ -86,21 +52,26 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/normalize.css" />
-        <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/tampa.html" />
-        <option value="$PROJECT_DIR$/winter_garden.html" />
-        <option value="$PROJECT_DIR$/clermont.html" />
-        <option value="$PROJECT_DIR$/orlando.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/reviews.html" />
         <option value="$PROJECT_DIR$/js/reviews_actions.js" />
-        <option value="$PROJECT_DIR$/css/location_services.css" />
-        <option value="$PROJECT_DIR$/services.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/js/gallery_actions.js" />
+        <option value="$PROJECT_DIR$/admin" />
+        <option value="$PROJECT_DIR$/admin/admin_css/admin_style.css" />
         <option value="$PROJECT_DIR$/css/style1.css" />
         <option value="$PROJECT_DIR$/css/gallery.css" />
-        <option value="$PROJECT_DIR$/js/gallery_actions.js" />
+        <option value="$PROJECT_DIR$/admin/admin.html" />
+        <option value="$PROJECT_DIR$/admin/admin_gallery.html" />
+        <option value="$PROJECT_DIR$/admin/admin_review.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/locations.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/orlando.html" />
+        <option value="$PROJECT_DIR$/winter_garden.html" />
+        <option value="$PROJECT_DIR$/tampa.html" />
+        <option value="$PROJECT_DIR$/clermont.html" />
+        <option value="$PROJECT_DIR$/reviews.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/css/location_services.css" />
       </list>
     </option>
   </component>
@@ -165,7 +136,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -179,7 +150,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,14 +229,14 @@
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997844" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23076923" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -286,36 +257,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/orlando.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="2310" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tampa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="30" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2235" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winter_garden.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="38" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2280" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clermont.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2295" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="8" selection-start="1803" selection-end="2058" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="2175" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="12750">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="12750" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -360,9 +304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="23" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
+        <state line="36" column="23" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -407,9 +349,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="525">
-          <folding />
-        </state>
+        <state line="27" column="22" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -434,9 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="17" column="5" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -474,98 +412,129 @@
         <state line="12" column="6" selection-start="344" selection-end="344" vertical-scroll-proportion="0.2535211" vertical-offset="0" max-vertical-offset="7995" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="8" selection-start="1803" selection-end="2058" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1515" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winter_garden.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="38" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/orlando.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="2310" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clermont.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tampa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="30" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2220" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsiveslides.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/gallery_actions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="7" selection-start="2385" selection-end="2385" vertical-scroll-proportion="0.87306064" vertical-offset="866" max-vertical-offset="1575" />
+        <state line="59" column="85" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1395" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/location_services.css">
+    <entry file="file://$PROJECT_DIR$/admin/admin_css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="0" selection-start="1498" selection-end="1498" vertical-scroll-proportion="1.9699042" vertical-offset="0" max-vertical-offset="1530">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin_css/admin_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="13" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.8158254" vertical-offset="722" max-vertical-offset="1455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="31" selection-start="3108" selection-end="3115" vertical-scroll-proportion="21.538462" vertical-offset="3800" max-vertical-offset="11625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="20" selection-start="764" selection-end="764" vertical-scroll-proportion="1.1459755" vertical-offset="0" max-vertical-offset="1515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin_review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.6770099" vertical-offset="0" max-vertical-offset="1380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin_gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1000" selection-end="1000" vertical-scroll-proportion="0.6770099" vertical-offset="0" max-vertical-offset="1665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="52" selection-start="865" selection-end="974" vertical-scroll-proportion="0.5133991" vertical-offset="101" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="9" selection-start="1430" selection-end="1430" vertical-scroll-proportion="1.0681819" vertical-offset="0" max-vertical-offset="1575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="3751" selection-end="3751" vertical-scroll-proportion="0.5712271" vertical-offset="1275" max-vertical-offset="2175">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="8" selection-start="4341" selection-end="4341" vertical-scroll-proportion="2.920937" vertical-offset="0" max-vertical-offset="2595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orlando.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="125" selection-start="2630" selection-end="2630" vertical-scroll-proportion="0.86206895" vertical-offset="585" max-vertical-offset="2310">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/winter_garden.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="106" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.23706897" vertical-offset="990" max-vertical-offset="2280">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tampa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="106" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.49568966" vertical-offset="780" max-vertical-offset="2235">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clermont.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="104" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.9698276" vertical-offset="495" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reviews.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="0" selection-start="5135" selection-end="5135" vertical-scroll-proportion="4.257925" vertical-offset="0" max-vertical-offset="3195" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="782" selection-end="782" vertical-scroll-proportion="0.38189533" vertical-offset="0" max-vertical-offset="2580">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="328" column="29" selection-start="4510" selection-end="4511" vertical-scroll-proportion="0.0" vertical-offset="4685" max-vertical-offset="11640">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="23" selection-start="2" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1560">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/gallery_actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="85" selection-start="1034" selection-end="1034" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1395">
+        <state line="177" column="134" selection-start="5365" selection-end="5365" vertical-scroll-proportion="3.744711" vertical-offset="0" max-vertical-offset="3195">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="0" selection-start="5469" selection-end="5469" vertical-scroll-proportion="-77.5" vertical-offset="0" max-vertical-offset="3765">
+        <state line="367" column="0" selection-start="12054" selection-end="12054" vertical-scroll-proportion="6.12931" vertical-offset="144" max-vertical-offset="4815">
           <folding>
             <element signature="tag#script#3;tag#head#0;tag#html#0" expanded="false" />
             <element signature="tag#script#4;tag#head#0;tag#html#0" expanded="false" />
             <element signature="tag#script#5;tag#head#0;tag#html#0" expanded="false" />
             <element signature="tag#script#6;tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#3;tag#div#0;tag#section#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/location_services.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1485">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/locations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="46" selection-start="3039" selection-end="3039" vertical-scroll-proportion="0.44428772" vertical-offset="1035" max-vertical-offset="2490">
+        <state line="141" column="8" selection-start="4668" selection-end="4668" vertical-scroll-proportion="0.8836207" vertical-offset="1500" max-vertical-offset="2490">
           <folding />
         </state>
       </provider>

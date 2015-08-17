@@ -1,13 +1,10 @@
 
-#wedding_gallery_expand {
-    background-color: gray;
-
-}
 
 
 #expand_gallery h4 {
     cursor: pointer;
-    color: #ffffff;
+    color: #414042;
+    margin-top: 28px;
 }
 
 #expand_gallery aside {
@@ -42,15 +39,15 @@ h4 {
     margin-top: 80px;
 }
 
-h5 {
+.gallery_container h5 {
+    color: #414042;
     font-size: 14px;
     float: left;
     width: 120px;
     margin-top: 112px;
     margin-left: -160px;
     font-family: droid sans, sans-serif;
-
-
+    margin-bottom: 13px;
 }
 
 
@@ -61,7 +58,7 @@ h5 {
 }
 
 .rslides2 {
-    color: #ffffff;
+    color: #414042;
 }
 
 .callbacks_nav {
@@ -75,7 +72,7 @@ h5 {
     text-decoration: none;
     height: 61px;
     width: 38px;
-    background: transparent url("../images/gallery_arrow.png") no-repeat left top;
+    background: transparent url("../images/gallery_arrow_dark.png") no-repeat left top;
 }
 
 .callbacks_nav:active {

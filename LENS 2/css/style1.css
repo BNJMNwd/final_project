@@ -1,10 +1,7 @@
-/*@font-face {
+@font-face {
     font-family: signoria;
     src: url(signoria.ttf);
-}*/
-
-
-
+}
 
 
 
@@ -16,6 +13,7 @@
     margin-bottom: 50px;
 }
 
+
 #large_location img, #main_service img{
     display: block;
     margin-right: auto;
@@ -24,6 +22,7 @@
     position: relative;
 
 }
+
 
 #large_location p, #main_service p{
     color: #414042;
